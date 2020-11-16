@@ -6,6 +6,13 @@
   "sort": "created",
   "order": "asc",
   "includeFork": true,
-  "theme": "light.css"
+  "theme": "dark.css",
+  "types": [
+   "owner"
+  ],
+  "twitter": "chegenbryan",
+  "linkedin": "chegebryan",
+  "medium": null,
+  "dribbble": null
  }
 ]
